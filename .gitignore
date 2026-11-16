@@ -1,5 +1,7 @@
-# Environment variables
+
+# Environment variables and secrets
 .env
+.streamlit/secrets.toml
 
 # Virtual environment
 .venv/
@@ -7,9 +9,6 @@
 # Python cache
 __pycache__/
 *.pyc
-
-# Streamlit
-.streamlit/secrets.toml
 
 # IDE
 .vscode/
